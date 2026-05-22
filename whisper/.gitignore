@@ -1,0 +1,8 @@
+/ayalysis/*
+/decode_results/*
+/models/*
+/result/*
+/sixian_30h_processed/*
+/wandb/*
+/translation/*
+__pycache__
